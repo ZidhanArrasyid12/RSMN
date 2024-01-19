@@ -102,7 +102,8 @@
  <textarea class="form-control" id="alamat" rows="3"
  name="alamat">{{ old('alamat') }}</textarea>
  </div>
- <button type="submit" class="btn btn-primary mb-2">Daftar</button>
+ <button type="submit" class="btn btn-primary mt-2">Daftar</button>
+ <p class="mt-5"> Note *No Rujukan di dapat dari membuat janji dengan dokter </p>
  </form>
  </div>
  </div>

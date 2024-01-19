@@ -24,7 +24,7 @@
               Kami lebih dari sekadar rumah sakit. Kami adalah harapan Anda
 untuk memulihkan kehidupan yang lebih baik.
             </p>
-            <a href="caridokter">
+            <a href="student/create">
             <button class="button-Daftar px-5 py-2">Daftar Online</button>
             </a>
           </div>

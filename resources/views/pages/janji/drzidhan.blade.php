@@ -17,7 +17,7 @@
                     </div>
             </div>
             <div class="col-lg-4" style="padding-top: 90px;">
-                <a href="student/create">
+                <a href="rujukan">
                         <button type="submit" class="btn btn-primary mt-3 fw-bold" style=" width:400px; background-color: #658FFD; border-radius: 24px 24px;" >
                             Selanjutnya
                           </button> </a>

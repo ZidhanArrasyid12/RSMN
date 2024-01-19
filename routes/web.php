@@ -34,6 +34,7 @@ use App\Http\Controllers\Dramin;
 use App\Http\Controllers\Drtoni;
 use App\Http\Controllers\Drthorik;
 use App\Http\Controllers\Drfauzan;
+use App\Http\Controllers\Rujukan;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -80,6 +81,7 @@ Route::get('/drthorik', [DrThorik::class, 'drthorik']);
 Route::get('/drtoni', [DrToni::class, 'drtoni']);
 Route::get('/drfauzan', [DrFauzan::class, 'drfauzan']);
 Route::get('/dramin', [DrAmin::class, 'dramin']);
+Route::get('/rujukan', [Rujukan::class, 'rujukan']);
 
 Route::get('/student/create', [StudentController::class, 'create']);
 
